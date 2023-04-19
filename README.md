@@ -1,1 +1,3 @@
 # Boilerplate
+
+React Native Expo + TypeScript + React Navigation + Recoil + axios ...
